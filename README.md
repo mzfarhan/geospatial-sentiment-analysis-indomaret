@@ -85,7 +85,7 @@ Based on the insights, a precise, three-part action plan is recommended:
 This repository contains the full analysis and presentation materials.
 
 * `/Indomaret_Store_Location_Analysis_in_Jakarta.ipynb`: The main Jupyter Notebook containing all code.
-* `/Analisis data lokasi indomaret di jakarta by Muhammad Zulfarhan.pdf`: The final presentation deck.
+* `/data location indomaret analysis in jakarta.pdf`: The final presentation deck.
 * `requirements.txt`: A list of all Python libraries required to run the notebook.
 
 #### **Running the Analysis:**
